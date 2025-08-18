@@ -5,7 +5,7 @@
 
 <br/>
 
-## <div align="center"> 👨‍💻 Um pouco sobre mim, minhas skills e o que venho construindo no mundo dev. **  </div>  
+## <div align="center"> 👨‍💻 Um pouco sobre mim, minhas skills e o que venho construindo no mundo dev.  </div>  
   
 
 <div align="center">

@@ -18,7 +18,7 @@
 </div>  
 
 
-- 🎓 Cursando o último semestre de **Análise e Desenvolvimento de Sistemas**
+- 🎓 Graduado em Análise e Desenvolvimento de Sistema**
 
 
 - 💻 Foco em **desenvolvimento Back-end** com experiência em **Java**, **Python** e **SQL**    

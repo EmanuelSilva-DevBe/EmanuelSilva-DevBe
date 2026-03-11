@@ -18,7 +18,7 @@
 </div>  
 
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistema**
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistema**
 
 
 - 💻 Foco em **desenvolvimento Back-end** com experiência em **Java**, **Python** e **SQL**    

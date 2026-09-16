@@ -30,7 +30,7 @@ Agora inicio uma nova etapa profissional utilizando **C# e .NET**, ampliando min
 - 🗄️ Trabalhando com **PostgreSQL, modelagem de dados e SQL**
 - 🧱 Estudando arquitetura em camadas, DTOs, validações e boas práticas para APIs REST
 - 📦 Evoluindo meu projeto de gestão de pedidos para o **StockFlow**, um sistema de estoque e vendas
-- 🎯 Buscando oportunidades para crescer como **Desenvolvedor Java Back-end Júnior**
+- 🎯 Iniciando uma nova experiência profissional com **C# e .NET**, sem deixar de evoluir no ecossistema Java
 
 ## Tecnologias e ferramentas
 
@@ -68,12 +68,29 @@ Agora inicio uma nova etapa profissional utilizando **C# e .NET**, ampliando min
 
 ## Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [StockFlow](https://github.com/EmanuelSilva-DevBe/Gerenciador-de-Pedidos-Web_Com-Spring) | Evolução de um gerenciador de pedidos para um sistema de catálogo, estoque, filiais e vendas. | Java, Spring Boot, JPA, PostgreSQL |
-| [Med Voll](https://github.com/EmanuelSilva-DevBe/Med_Voll) | API REST desenvolvida para praticar cadastro, atualização, exclusão lógica, validações e migrations. | Java, Spring Boot, Spring Data JPA, Flyway |
-| [API ViaCEP](https://github.com/EmanuelSilva-DevBe/ApiViaCep) | Aplicação que consome uma API externa para consultar endereços e persistir dados. | Java, API REST, JSON |
-| [ScreenMatch](https://github.com/EmanuelSilva-DevBe/ScreenMatch-LinhaDeComando) | Projeto em linha de comando para consolidar orientação a objetos, records, enums e interfaces. | Java, POO |
+### [StockFlow](https://github.com/EmanuelSilva-DevBe/Gerenciador-de-Pedidos-Web_Com-Spring)
+
+Evolução de um gerenciador de pedidos para um sistema de catálogo, estoque, filiais e vendas.
+
+`Java` `Spring Boot` `JPA` `PostgreSQL`
+
+### [Med Voll](https://github.com/EmanuelSilva-DevBe/Med_Voll)
+
+API REST desenvolvida para praticar cadastro, atualização, exclusão lógica, validações e migrations.
+
+`Java` `Spring Boot` `Spring Data JPA` `Flyway`
+
+### [API ViaCEP](https://github.com/EmanuelSilva-DevBe/ApiViaCep)
+
+Aplicação que consome uma API externa para consultar endereços e persistir dados.
+
+`Java` `API REST` `JSON`
+
+### [ScreenMatch](https://github.com/EmanuelSilva-DevBe/ScreenMatch-LinhaDeComando)
+
+Projeto em linha de comando para consolidar orientação a objetos, records, enums e interfaces.
+
+`Java` `POO`
 
 ## O que estou estudando agora
 
@@ -84,20 +101,9 @@ Agora inicio uma nova etapa profissional utilizando **C# e .NET**, ampliando min
 - Testes automatizados
 - Docker, microsserviços e mensageria
 
-## Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EmanuelSilva-DevBe&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Emanuel" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSilva-DevBe&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Emanuel" />
-</p>
-
 ---
 
 <p align="center">
-  <strong>Vamos construir algo útil juntos?</strong><br />
+<br/>
   Java ou .NET: o importante é transformar regras de negócio em soluções bem construídas.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmanuelSilva-DevBe&style=flat-square&color=0A66C2" alt="Visualizações do perfil" />
 </p>

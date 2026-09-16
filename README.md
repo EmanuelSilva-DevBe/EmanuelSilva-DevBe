@@ -1,114 +1,134 @@
-
 <p align="center">
-  <img src="github-header-banner.png" alt="Banner do GitHub" />
+  <img src="github-header-banner.png" alt="Banner de Emanuel Silva" width="100%" />
 </p>
 
-<br/>
+<h1 align="center">Olá, eu sou o Emanuel Silva 👋</h1>
 
-## <div align="center"> 👨‍💻 Um pouco sobre mim, minhas skills e o que venho construindo no mundo dev.  </div>  
-  
+<p align="center">
+  Desenvolvedor Back-end • Java & Spring Boot • C# & .NET • APIs REST
+</p>
 
-<div align="center">
-<a href="https://github.com/zetsu-hub" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/emanuel-da-silva-877a22323/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<p align="center">
+  <a href="https://github.com/EmanuelSilva-DevBe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/emanuel-da-silva-877a22323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
+Sobre mim
 
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistema**
+Sou graduado em Análise e Desenvolvimento de Sistemas e concentro minha carreira no desenvolvimento back-end com Java, Spring Boot, C# e .NET.
 
+Atuo com suporte e sustentação de sistemas corporativos, investigando logs, analisando falhas e trabalhando com aplicações Java, JBoss/WildFly, PostgreSQL e Linux. Essa experiência fortaleceu minha capacidade de entender problemas reais, identificar suas causas e buscar soluções seguras e sustentáveis.
 
-- 💻 Foco em **desenvolvimento Back-end** com experiência em **Java**, **Python** e **SQL**    
+Agora inicio uma nova etapa profissional utilizando C# e .NET, ampliando minha experiência no ecossistema back-end e aplicando conceitos de orientação a objetos, APIs e bancos de dados em diferentes tecnologias.
 
+☕ Construindo APIs e aplicações com Java 17, Spring Boot, JPA e Hibernate
 
-- 🚀 Sempre em busca de aprimorar minhas habilidades e acompanhar as boas práticas do mercado    
-  
+💜 Desenvolvendo minha experiência profissional com C#, .NET e ASP.NET Core
 
-- 💡 Transformo ideias em soluções eficientes, escrevo código limpo e colaboro em projetos com impacto real.   
-  
+🗄️ Trabalhando com PostgreSQL, modelagem de dados e SQL
 
-- 💻 Buscando oportunidades para **crescer** e **contribuir** com equipes inovadoras.   
-  
+🧱 Estudando arquitetura em camadas, DTOs, validações e boas práticas para APIs REST
 
-- 🤖 Explore meus repositórios e conheça na prática o que venho desenvolvendo: https://github.com/zetsu-hub?tab=repositories  
-  
+📦 Evoluindo meu projeto de gestão de pedidos para o StockFlow, um sistema de estoque e vendas
 
-<br/>  
+🎯 Buscando oportunidades para crescer como Desenvolvedor Java Back-end Júnior
 
+Tecnologias e ferramentas
 
+Back-end
 
-### 👾 Sobre mim 👾  
-💻 Desenvolvedor apaixonado por tecnologia, cursando o último semestre de Análise e Desenvolvimento de Sistemas e focado em criar soluções robustas no **Back-end**, com experiência em **Java**, **Python** e **SQL**. Desde que comecei a programar, **busco unir lógica, criatividade e boas práticas para desenvolver aplicações eficientes** e de fácil manutenção.
+<p>
+  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-🚀 Tenho interesse em participar de projetos que desafiem minhas habilidades e me permitam aprender continuamente, colaborando com equipes inovadoras e engajadas. Acredito que tecnologia é mais do que código — é resolver problemas, gerar impacto real e transformar ideias em resultados.
+Banco de dados e infraestrutura
 
-📌 Aqui no GitHub, compartilho minha jornada, meus estudos e projetos que refletem minha evolução como desenvolvedor. Se você busca alguém proativo, comprometido e com sede de crescimento, vamos conversar.  
-  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/JBoss%20%7C%20WildFly-000000?style=for-the-badge&logo=redhat&logoColor=white" alt="JBoss e WildFly" />
+</p>
 
-<br/>  
+Desenvolvimento
 
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="APIs REST" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+</p>
 
-<table><tr><td valign="top" width="33%">
+Projetos em destaque
 
+Projeto
 
+Descrição
 
-### Front End  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
+Tecnologias
 
-</td><td valign="top" width="33%">
+StockFlow
 
+Evolução de um gerenciador de pedidos para um sistema de catálogo, estoque, filiais e vendas.
 
+Java, Spring Boot, JPA, PostgreSQL
 
-### Back End  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>    
-  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div>
+Med Voll
 
-</td><td valign="top" width="33%">
+API REST desenvolvida para praticar cadastro, atualização, exclusão lógica, validações e migrations.
 
+Java, Spring Boot, Spring Data JPA, Flyway
 
+API ViaCEP
 
-### Ferramentas  
-<div align="center">  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-</div>
+Aplicação que consome uma API externa para consultar endereços e persistir dados.
 
-</td></tr></table>  
+Java, API REST, JSON
 
+ScreenMatch
 
-<br/>  
+Projeto em linha de comando para consolidar orientação a objetos, records, enums e interfaces.
 
-  
+Java, POO
 
-<br/>  
+O que estou estudando agora
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=zetsu-hub&&style=flat-square" align="center" />
-</div>  
-  
+Desenvolvimento de APIs REST com Spring Boot
 
-<br/>  
+C#, .NET e ASP.NET Core aplicados ao desenvolvimento back-end
 
+Modelagem de domínios e regras de negócio
 
-<br />
+Spring Security e autenticação com JWT
 
+Testes automatizados
 
+Docker, microsserviços e mensageria
+
+Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EmanuelSilva-DevBe&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Emanuel" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSilva-DevBe&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Emanuel" />
+</p>
+
+<p align="center">
+  <strong>Vamos construir algo útil juntos?</strong><br />
+  Java ou .NET: o importante é transformar regras de negócio em soluções bem construídas.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EmanuelSilva-DevBe&style=flat-square&color=0A66C2" alt="Visualizações do perfil" />
+</p>

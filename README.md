@@ -17,29 +17,24 @@
   </a>
 </p>
 
-Sobre mim
+## Sobre mim
 
-Sou graduado em Análise e Desenvolvimento de Sistemas e concentro minha carreira no desenvolvimento back-end com Java, Spring Boot, C# e .NET.
+Sou graduado em **Análise e Desenvolvimento de Sistemas** e concentro minha carreira no desenvolvimento back-end com **Java, Spring Boot, C# e .NET**.
 
-Atuo com suporte e sustentação de sistemas corporativos, investigando logs, analisando falhas e trabalhando com aplicações Java, JBoss/WildFly, PostgreSQL e Linux. Essa experiência fortaleceu minha capacidade de entender problemas reais, identificar suas causas e buscar soluções seguras e sustentáveis.
+Atuo com suporte e sustentação de sistemas corporativos, investigando logs, analisando falhas e trabalhando com aplicações Java, **JBoss/WildFly, PostgreSQL e Linux**. Essa experiência fortaleceu minha capacidade de entender problemas reais, identificar suas causas e buscar soluções seguras e sustentáveis.
 
-Agora inicio uma nova etapa profissional utilizando C# e .NET, ampliando minha experiência no ecossistema back-end e aplicando conceitos de orientação a objetos, APIs e bancos de dados em diferentes tecnologias.
+Agora inicio uma nova etapa profissional utilizando **C# e .NET**, ampliando minha experiência no ecossistema back-end e aplicando conceitos de orientação a objetos, APIs e bancos de dados em diferentes tecnologias.
 
-☕ Construindo APIs e aplicações com Java 17, Spring Boot, JPA e Hibernate
+- ☕ Construindo APIs e aplicações com **Java 17, Spring Boot, JPA e Hibernate**
+- 💜 Desenvolvendo minha experiência profissional com **C#, .NET e ASP.NET Core**
+- 🗄️ Trabalhando com **PostgreSQL, modelagem de dados e SQL**
+- 🧱 Estudando arquitetura em camadas, DTOs, validações e boas práticas para APIs REST
+- 📦 Evoluindo meu projeto de gestão de pedidos para o **StockFlow**, um sistema de estoque e vendas
+- 🎯 Buscando oportunidades para crescer como **Desenvolvedor Java Back-end Júnior**
 
-💜 Desenvolvendo minha experiência profissional com C#, .NET e ASP.NET Core
+## Tecnologias e ferramentas
 
-🗄️ Trabalhando com PostgreSQL, modelagem de dados e SQL
-
-🧱 Estudando arquitetura em camadas, DTOs, validações e boas práticas para APIs REST
-
-📦 Evoluindo meu projeto de gestão de pedidos para o StockFlow, um sistema de estoque e vendas
-
-🎯 Buscando oportunidades para crescer como Desenvolvedor Java Back-end Júnior
-
-Tecnologias e ferramentas
-
-Back-end
+### Back-end
 
 <p>
   <img src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17" />
@@ -53,7 +48,7 @@ Back-end
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-Banco de dados e infraestrutura
+### Banco de dados e infraestrutura
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -62,7 +57,7 @@ Banco de dados e infraestrutura
   <img src="https://img.shields.io/badge/JBoss%20%7C%20WildFly-000000?style=for-the-badge&logo=redhat&logoColor=white" alt="JBoss e WildFly" />
 </p>
 
-Desenvolvimento
+### Desenvolvimento
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -71,58 +66,32 @@ Desenvolvimento
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
-Projetos em destaque
+## Projetos em destaque
 
-Projeto
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [StockFlow](https://github.com/EmanuelSilva-DevBe/Gerenciador-de-Pedidos-Web_Com-Spring) | Evolução de um gerenciador de pedidos para um sistema de catálogo, estoque, filiais e vendas. | Java, Spring Boot, JPA, PostgreSQL |
+| [Med Voll](https://github.com/EmanuelSilva-DevBe/Med_Voll) | API REST desenvolvida para praticar cadastro, atualização, exclusão lógica, validações e migrations. | Java, Spring Boot, Spring Data JPA, Flyway |
+| [API ViaCEP](https://github.com/EmanuelSilva-DevBe/ApiViaCep) | Aplicação que consome uma API externa para consultar endereços e persistir dados. | Java, API REST, JSON |
+| [ScreenMatch](https://github.com/EmanuelSilva-DevBe/ScreenMatch-LinhaDeComando) | Projeto em linha de comando para consolidar orientação a objetos, records, enums e interfaces. | Java, POO |
 
-Descrição
+## O que estou estudando agora
 
-Tecnologias
+- Desenvolvimento de APIs REST com Spring Boot
+- C#, .NET e ASP.NET Core aplicados ao desenvolvimento back-end
+- Modelagem de domínios e regras de negócio
+- Spring Security e autenticação com JWT
+- Testes automatizados
+- Docker, microsserviços e mensageria
 
-StockFlow
-
-Evolução de um gerenciador de pedidos para um sistema de catálogo, estoque, filiais e vendas.
-
-Java, Spring Boot, JPA, PostgreSQL
-
-Med Voll
-
-API REST desenvolvida para praticar cadastro, atualização, exclusão lógica, validações e migrations.
-
-Java, Spring Boot, Spring Data JPA, Flyway
-
-API ViaCEP
-
-Aplicação que consome uma API externa para consultar endereços e persistir dados.
-
-Java, API REST, JSON
-
-ScreenMatch
-
-Projeto em linha de comando para consolidar orientação a objetos, records, enums e interfaces.
-
-Java, POO
-
-O que estou estudando agora
-
-Desenvolvimento de APIs REST com Spring Boot
-
-C#, .NET e ASP.NET Core aplicados ao desenvolvimento back-end
-
-Modelagem de domínios e regras de negócio
-
-Spring Security e autenticação com JWT
-
-Testes automatizados
-
-Docker, microsserviços e mensageria
-
-Estatísticas
+## Estatísticas
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=EmanuelSilva-DevBe&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Emanuel" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelSilva-DevBe&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Emanuel" />
 </p>
+
+---
 
 <p align="center">
   <strong>Vamos construir algo útil juntos?</strong><br />
